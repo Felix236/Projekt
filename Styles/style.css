@@ -8,15 +8,18 @@ link {
 	color: #0042a6; 
 }
 p {
-	color: 	#FF0000;
+	color: 		#4169E1;
 }
 b {
-	color: 	#4682B4
+	color: 	red
 }
 h1 {
 
 	color: 		#0042a6
 }
 li {
-	color: 	#005c7d	
+	color: 	green	
+}
+ol {color: red
+
 }
